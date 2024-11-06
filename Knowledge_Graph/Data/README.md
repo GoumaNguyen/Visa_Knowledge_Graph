@@ -1,4 +1,0 @@
-- ver3: không index
-- ver4: có index, gộp nội dung của các visa khác nhau nhưng cùng loại 
-- ver5: Subclass phía sau name
-- ver6: Subclass phía sau name, không gộp visa
